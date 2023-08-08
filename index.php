@@ -12,7 +12,7 @@
             font-family: 'Open Sans', Serif;
         }
         pgraph{
-            font-family: 'Source Code Pro', monospace;
+            font-family: 'Source Code Pro', Serif;
         }
     </style>
 </head>
