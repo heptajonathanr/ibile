@@ -9,10 +9,10 @@
         @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Source+Code+Pro:ital,wght@1,200&display=swap');
         body{
             padding: 3%
-            font-family: 'Open Sans', Serif;
+            font-family: 'Open Sans', sans-serif;
         }
         pgraph{
-            font-family: 'Source Code Pro', Serif;
+            font-family: 'Source Code Pro', monospace;
         }
     </style>
 </head>
