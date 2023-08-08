@@ -12,7 +12,8 @@
  * e comando de saída
  */
 $start= "Vamos Começar!";
-echo "Olá Mundo! {$start}";
+echo "<h1>Olá Mundo! {$start}</h1>";
+echo "<div id='js'> Loading...</div>";
 ?>
 </body>
 </html>
