@@ -6,10 +6,10 @@
     <title>Ibile</title>
 
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Open+Sans|dSource+Code+Pro:ital,wght@1,200&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Source+Code+Pro:ital,wght@1,200&display=swap');
         body{
             padding: 3%
-            font-family: "Open Sans", Serif;
+            font-family: 'Open Sans', Serif;
         }
         pgraph{
             font-family: 'Source Code Pro', monospace;
